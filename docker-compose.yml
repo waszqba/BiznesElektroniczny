@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  db:
+    image: mysql:5
+    restart: always
+    ports:
+      - 3307:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: r00t
+    volumes:
+      - ./db:/var/lib/mysql
+  shop:
+    # build: shop
+    image: prestashop/prestashop
+    volumes:
+      - ./shop:/var/www/html
+    restart: always
+    ports:
+      - 5000:80
+    # environment:
+    #   PS_INSTALL_AUTO: 1
+    #   DB_SERVER: db
+    depends_on:
+      - db
