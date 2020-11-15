@@ -1,0 +1,165 @@
+/*!
+ * 2007-2020 PayPal
+ *
+ *  NOTICE OF LICENSE
+ *
+ *  This source file is subject to the Academic Free License (AFL 3.0)
+ *  that is bundled with this package in the file LICENSE.txt.
+ *  It is also available through the world-wide-web at this URL:
+ *  http://opensource.org/licenses/afl-3.0.php
+ *  If you did not receive a copy of the license and are unable to
+ *  obtain it through the world-wide-web, please send an email
+ *  to license@prestashop.com so we can send you a copy immediately.
+ *
+ *  DISCLAIMER
+ *
+ *  Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ *  versions in the future. If you wish to customize PrestaShop for your
+ *  needs please refer to http://www.prestashop.com for more information.
+ *
+ *  @author 2007-2020 PayPal
+ *  @author 202 ecommerce <tech@202-ecommerce.com>
+ *  @copyright PayPal
+ *  @license http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+ *//*!
+ * 2007-2020 PayPal
+ *
+ *  NOTICE OF LICENSE
+ *
+ *  This source file is subject to the Academic Free License (AFL 3.0)
+ *  that is bundled with this package in the file LICENSE.txt.
+ *  It is also available through the world-wide-web at this URL:
+ *  http://opensource.org/licenses/afl-3.0.php
+ *  If you did not receive a copy of the license and are unable to
+ *  obtain it through the world-wide-web, please send an email
+ *  to license@prestashop.com so we can send you a copy immediately.
+ *
+ *  DISCLAIMER
+ *
+ *  Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ *  versions in the future. If you wish to customize PrestaShop for your
+ *  needs please refer to http://www.prestashop.com for more information.
+ *
+ *  @author 2007-2020 PayPal
+ *  @author 202 ecommerce <tech@202-ecommerce.com>
+ *  @copyright PayPal
+ *  @license http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+ *//*!
+ * 2007-2020 PayPal
+ *
+ *  NOTICE OF LICENSE
+ *
+ *  This source file is subject to the Academic Free License (AFL 3.0)
+ *  that is bundled with this package in the file LICENSE.txt.
+ *  It is also available through the world-wide-web at this URL:
+ *  http://opensource.org/licenses/afl-3.0.php
+ *  If you did not receive a copy of the license and are unable to
+ *  obtain it through the world-wide-web, please send an email
+ *  to license@prestashop.com so we can send you a copy immediately.
+ *
+ *  DISCLAIMER
+ *
+ *  Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ *  versions in the future. If you wish to customize PrestaShop for your
+ *  needs please refer to http://www.prestashop.com for more information.
+ *
+ *  @author 2007-2020 PayPal
+ *  @author 202 ecommerce <tech@202-ecommerce.com>
+ *  @copyright PayPal
+ *  @license http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+ */.bt__form-row{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-left:-15px;margin-right:-15px}.bt__form-control{border-radius:4px;border:1px solid #ccc;height:34px;padding:6px 12px;-webkit-box-shadow:rgba(0,0,0,0.0745098) 0 1px 1px 0 inset;box-shadow:rgba(0,0,0,0.0745098) 0 1px 1px 0 inset;-webkit-transition:border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s, box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;background:#fff}.bt__form-label{display:inline-block !important;margin-bottom:5px}.bt__form-check-label{display:inline-block !important;padding-left:10px}.bt__number-field::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}.bt__number-field::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}/*!
+ * 2007-2020 PayPal
+ *
+ *  NOTICE OF LICENSE
+ *
+ *  This source file is subject to the Academic Free License (AFL 3.0)
+ *  that is bundled with this package in the file LICENSE.txt.
+ *  It is also available through the world-wide-web at this URL:
+ *  http://opensource.org/licenses/afl-3.0.php
+ *  If you did not receive a copy of the license and are unable to
+ *  obtain it through the world-wide-web, please send an email
+ *  to license@prestashop.com so we can send you a copy immediately.
+ *
+ *  DISCLAIMER
+ *
+ *  Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ *  versions in the future. If you wish to customize PrestaShop for your
+ *  needs please refer to http://www.prestashop.com for more information.
+ *
+ *  @author 2007-2020 PayPal
+ *  @author 202 ecommerce <tech@202-ecommerce.com>
+ *  @copyright PayPal
+ *  @license http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+ */.bt__m-0{margin:0 !important}.bt__p-0{padding:0 !important}.bt__my-0{margin-top:0 !important;margin-bottom:0 !important}.bt__py-0{padding-top:0 !important;padding-bottom:0 !important}.bt__px-0{padding-left:0 !important;padding-right:0 !important}.bt__m-1{margin:5px !important}.bt__p-1{padding:5px !important}.bt__my-1{margin-top:5px !important;margin-bottom:5px !important}.bt__py-1{padding-top:5px !important;padding-bottom:5px !important}.bt__px-1{padding-left:5px !important;padding-right:5px !important}.bt__m-2{margin:10px !important}.bt__p-2{padding:10px !important}.bt__my-2{margin-top:10px !important;margin-bottom:10px !important}.bt__py-2{padding-top:10px !important;padding-bottom:10px !important}.bt__px-2{padding-left:10px !important;padding-right:10px !important}.bt__m-3{margin:15px !important}.bt__p-3{padding:15px !important}.bt__my-3{margin-top:15px !important;margin-bottom:15px !important}.bt__py-3{padding-top:15px !important;padding-bottom:15px !important}.bt__px-3{padding-left:15px !important;padding-right:15px !important}.bt__m-4{margin:20px !important}.bt__p-4{padding:20px !important}.bt__my-4{margin-top:20px !important;margin-bottom:20px !important}.bt__py-4{padding-top:20px !important;padding-bottom:20px !important}.bt__px-4{padding-left:20px !important;padding-right:20px !important}.bt__m-5{margin:25px !important}.bt__p-5{padding:25px !important}.bt__my-5{margin-top:25px !important;margin-bottom:25px !important}.bt__py-5{padding-top:25px !important;padding-bottom:25px !important}.bt__px-5{padding-left:25px !important;padding-right:25px !important}.bt__mt-0{margin-top:0 !important}.bt__pt-0{padding-top:0 !important}.bt__mt-1{margin-top:5px !important}.bt__pt-1{padding-top:5px !important}.bt__mt-2{margin-top:10px !important}.bt__pt-2{padding-top:10px !important}.bt__mt-3{margin-top:15px !important}.bt__pt-3{padding-top:15px !important}.bt__mt-4{margin-top:20px !important}.bt__pt-4{padding-top:20px !important}.bt__mt-5{margin-top:25px !important}.bt__pt-5{padding-top:25px !important}.bt__mr-0{margin-right:0 !important}.bt__pr-0{padding-right:0 !important}.bt__mr-1{margin-right:5px !important}.bt__pr-1{padding-right:5px !important}.bt__mr-2{margin-right:10px !important}.bt__pr-2{padding-right:10px !important}.bt__mr-3{margin-right:15px !important}.bt__pr-3{padding-right:15px !important}.bt__mr-4{margin-right:20px !important}.bt__pr-4{padding-right:20px !important}.bt__mr-5{margin-right:25px !important}.bt__pr-5{padding-right:25px !important}.bt__mb-0{margin-bottom:0 !important}.bt__pb-0{padding-bottom:0 !important}.bt__mb-1{margin-bottom:5px !important}.bt__pb-1{padding-bottom:5px !important}.bt__mb-2{margin-bottom:10px !important}.bt__pb-2{padding-bottom:10px !important}.bt__mb-3{margin-bottom:15px !important}.bt__pb-3{padding-bottom:15px !important}.bt__mb-4{margin-bottom:20px !important}.bt__pb-4{padding-bottom:20px !important}.bt__mb-5{margin-bottom:25px !important}.bt__pb-5{padding-bottom:25px !important}.bt__ml-0{margin-left:0 !important}.bt__pl-0{padding-left:0 !important}.bt__ml-1{margin-left:5px !important}.bt__pl-1{padding-left:5px !important}.bt__ml-2{margin-left:10px !important}.bt__pl-2{padding-left:10px !important}.bt__ml-3{margin-left:15px !important}.bt__pl-3{padding-left:15px !important}.bt__ml-4{margin-left:20px !important}.bt__pl-4{padding-left:20px !important}.bt__ml-5{margin-left:25px !important}.bt__pl-5{padding-left:25px !important}/*!
+ * 2007-2020 PayPal
+ *
+ *  NOTICE OF LICENSE
+ *
+ *  This source file is subject to the Academic Free License (AFL 3.0)
+ *  that is bundled with this package in the file LICENSE.txt.
+ *  It is also available through the world-wide-web at this URL:
+ *  http://opensource.org/licenses/afl-3.0.php
+ *  If you did not receive a copy of the license and are unable to
+ *  obtain it through the world-wide-web, please send an email
+ *  to license@prestashop.com so we can send you a copy immediately.
+ *
+ *  DISCLAIMER
+ *
+ *  Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ *  versions in the future. If you wish to customize PrestaShop for your
+ *  needs please refer to http://www.prestashop.com for more information.
+ *
+ *  @author 2007-2020 PayPal
+ *  @author 202 ecommerce <tech@202-ecommerce.com>
+ *  @copyright PayPal
+ *  @license http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+ */.bt__border-t-primary{border-top:3px solid #3ed2f0 !important}.bt__border-t-danger{border-top:3px solid #ff4c4c !important}.bt__border-t-success{border-top:3px solid #349840 !important}.bt__border-t-secondary{border-top:3px solid #ccc !important}.bt__border-t-default{border-top:3px solid #ecf6fb !important}.bt__border-r-primary{border-right:3px solid #3ed2f0 !important}.bt__border-r-danger{border-right:3px solid #ff4c4c !important}.bt__border-r-success{border-right:3px solid #349840 !important}.bt__border-r-secondary{border-right:3px solid #ccc !important}.bt__border-r-default{border-right:3px solid #ecf6fb !important}.bt__border-b-primary{border-bottom:3px solid #3ed2f0 !important}.bt__border-b-danger{border-bottom:3px solid #ff4c4c !important}.bt__border-b-success{border-bottom:3px solid #349840 !important}.bt__border-b-secondary{border-bottom:3px solid #ccc !important}.bt__border-b-default{border-bottom:3px solid #ecf6fb !important}.bt__border-l-primary{border-left:3px solid #3ed2f0 !important}.bt__border-l-danger{border-left:3px solid #ff4c4c !important}.bt__border-l-success{border-left:3px solid #349840 !important}.bt__border-l-secondary{border-left:3px solid #ccc !important}.bt__border-l-default{border-left:3px solid #ecf6fb !important}/*!
+ * 2007-2020 PayPal
+ *
+ *  NOTICE OF LICENSE
+ *
+ *  This source file is subject to the Academic Free License (AFL 3.0)
+ *  that is bundled with this package in the file LICENSE.txt.
+ *  It is also available through the world-wide-web at this URL:
+ *  http://opensource.org/licenses/afl-3.0.php
+ *  If you did not receive a copy of the license and are unable to
+ *  obtain it through the world-wide-web, please send an email
+ *  to license@prestashop.com so we can send you a copy immediately.
+ *
+ *  DISCLAIMER
+ *
+ *  Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ *  versions in the future. If you wish to customize PrestaShop for your
+ *  needs please refer to http://www.prestashop.com for more information.
+ *
+ *  @author 2007-2020 PayPal
+ *  @author 202 ecommerce <tech@202-ecommerce.com>
+ *  @copyright PayPal
+ *  @license http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+ */.bt__text-danger{color:#ff4c4c}.bt__text-primary{color:#3ed2f0 !important}.bt__text-danger{color:#ff4c4c !important}.bt__text-success{color:#349840 !important}.bt__text-secondary{color:#ccc !important}.bt__text-default{color:#ecf6fb !important}.bt__text-center{text-align:center !important}.bt__text-start{text-align:start !important}.bt__text-end{text-align:end !important}.bt__text-left{text-align:left !important}.bt__text-right{text-align:right !important}/*!
+ * 2007-2020 PayPal
+ *
+ *  NOTICE OF LICENSE
+ *
+ *  This source file is subject to the Academic Free License (AFL 3.0)
+ *  that is bundled with this package in the file LICENSE.txt.
+ *  It is also available through the world-wide-web at this URL:
+ *  http://opensource.org/licenses/afl-3.0.php
+ *  If you did not receive a copy of the license and are unable to
+ *  obtain it through the world-wide-web, please send an email
+ *  to license@prestashop.com so we can send you a copy immediately.
+ *
+ *  DISCLAIMER
+ *
+ *  Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+ *  versions in the future. If you wish to customize PrestaShop for your
+ *  needs please refer to http://www.prestashop.com for more information.
+ *
+ *  @author 2007-2020 PayPal
+ *  @author 202 ecommerce <tech@202-ecommerce.com>
+ *  @copyright PayPal
+ *  @license http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
+ */.bt__flex{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important}.bt__align-items-center{-webkit-box-align:center !important;-webkit-align-items:center !important;-ms-flex-align:center !important;align-items:center !important}.bt__hidden{display:none}.bt__d-table-cell{display:table-cell}.bt__position-relative{position:relative}.flex{display:-webkit-box !important;display:-webkit-flex !important;display:-ms-flexbox !important;display:flex !important}.stretchHeightForm form{height:100%}.stretchHeightForm .panel{height:100%}.stretchHeightForm{padding-bottom:20px}.space-between{-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between}.space-around{-webkit-justify-content:space-around;-ms-flex-pack:distribute;justify-content:space-around}.justify-content-center{-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}.direction-column{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}.font-italic{font-style:italic}#content .panel.migration-page{padding:60px}#content .panel.migration-page .form-account{display:none}#content .panel.migration-page .form-account.visible{display:block}#content .panel.migration-page .mb-20{margin-bottom:20px}#content .panel.migration-page li{margin-bottom:20px}.bt-settings-link-on{background:#ecf6fb !important;color:#000 !important}.bt-settings-link-on .panel,.bt-settings-link-on .panel-footer{background:#ecf6fb !important}.bt-settings-tab-on{border-bottom:3px solid #3ed2f0}.ml-20{margin-left:20px}.mr-20{margin-right:20px}
+
+
+/*# sourceMappingURL=bt_admin.css.map*/

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-11-07 15:58:52
+/* Smarty version 3.1.33, created on 2020-11-15 13:43:31
   from 'module:pslinklistviewstemplatesh' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5fa6b62cdd8c98_53339817',
+  'unifunc' => 'content_5fb122735d38c8_79299269',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,14 +18,14 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5fa6b62cdd8c98_53339817 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5fb122735d38c8_79299269 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
 ));
 ?><div class="col-md-6 links">
   <div class="row">
       <div class="col-md-6 wrapper">
       <p class="h3 hidden-sm-down">Produkty</p>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_10043" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_98424" data-toggle="collapse">
         <span class="h3">Produkty</span>
         <span class="float-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -34,7 +34,7 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_10043" class="collapse">
+      <ul id="footer_sub_menu_98424" class="collapse">
                   <li>
             <a
                 id="link-product-page-prices-drop-1"
@@ -69,7 +69,7 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
     </div>
       <div class="col-md-6 wrapper">
       <p class="h3 hidden-sm-down">Nasza firma</p>
-            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_93900" data-toggle="collapse">
+            <div class="title clearfix hidden-md-up" data-target="#footer_sub_menu_57634" data-toggle="collapse">
         <span class="h3">Nasza firma</span>
         <span class="float-xs-right">
           <span class="navbar-toggler collapse-icons">
@@ -78,55 +78,55 @@ $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, arra
           </span>
         </span>
       </div>
-      <ul id="footer_sub_menu_93900" class="collapse">
+      <ul id="footer_sub_menu_57634" class="collapse">
                   <li>
             <a
                 id="link-cms-page-1-2"
                 class="cms-page-link"
-                href="http://127.0.0.1:5000/content/1-delivery"
-                title="Our terms and conditions of delivery"
+                href="http://127.0.0.1:5000/content/1-dostawa"
+                title="Nasze warunki i opcje dostaw"
                             >
-              Delivery
+              Dostawa
             </a>
           </li>
                   <li>
             <a
                 id="link-cms-page-2-2"
                 class="cms-page-link"
-                href="http://127.0.0.1:5000/content/2-legal-notice"
-                title="Legal notice"
+                href="http://127.0.0.1:5000/content/2-nota-prawna"
+                title="Nota prawna"
                             >
-              Legal Notice
+              Nota prawna
             </a>
           </li>
                   <li>
             <a
                 id="link-cms-page-3-2"
                 class="cms-page-link"
-                href="http://127.0.0.1:5000/content/3-terms-and-conditions-of-use"
-                title="Our terms and conditions of use"
+                href="http://127.0.0.1:5000/content/3-regulamin-sklepu"
+                title="Nasz regulamin korzystania z internetowego biura sprzedaży wycieczek turystycznych"
                             >
-              Terms and conditions of use
+              Regulamin Sklepu
             </a>
           </li>
                   <li>
             <a
                 id="link-cms-page-4-2"
                 class="cms-page-link"
-                href="http://127.0.0.1:5000/content/4-about-us"
-                title="Learn more about us"
+                href="http://127.0.0.1:5000/content/4-o-nas"
+                title="Dowiedz się więcej o naszym biurze"
                             >
-              About us
+              O nas
             </a>
           </li>
                   <li>
             <a
                 id="link-cms-page-5-2"
                 class="cms-page-link"
-                href="http://127.0.0.1:5000/content/5-secure-payment"
-                title="Our secure payment mean"
+                href="http://127.0.0.1:5000/content/5-bezpieczenstwo-platnosci"
+                title="Nasze bezpieczne metody płatności"
                             >
-              Secure payment
+              Bezpieczeństwo płatności
             </a>
           </li>
                   <li>

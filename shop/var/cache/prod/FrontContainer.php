@@ -1203,6 +1203,8 @@ class FrontContainer extends Container
                 58 => 'ps_buybuttonlite',
                 59 => 'blockreassurance',
                 60 => 'ps_facetedsearch',
+                61 => 'paypal',
+                62 => 'braintreeofficial',
             ],
             'ps_cache_dir' => '/var/www/html/var/cache/prod/',
             'mail_themes_uri' => '/mails/themes',
