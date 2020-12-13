@@ -3,6 +3,7 @@
 
 shop/config/settings.*.php
 .DS_Store
+node_modules
 
 
 # Cache, temp and generated files
