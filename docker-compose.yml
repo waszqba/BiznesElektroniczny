@@ -12,7 +12,7 @@ services:
   #     - ./db:/var/lib/mysql
   shop:
     # build: shop
-    image: prestashop/prestashop
+    image: prestashop/prestashop:1.7.6.9
     volumes:
       - ./shop:/var/www/html
     restart: always
