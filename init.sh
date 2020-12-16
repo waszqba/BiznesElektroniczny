@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
-cp resources/img/* shop/img
-cp resources/modules.ps_banner.img shop/modules/ps_banner/img
-cp resources/modules.ps_imageslider.images shop/modules/ps_imageslider/images
+mkdir shop/img
+cp resources/img/* shop/img/
 docker-compose up -d
-echo "Check for shop/install directory. When created, delete it"
+sleep 15
+rm -rf shop/admin
+rm -rf shop/install
+echo "Initialization complete, have fun with prestaCrap!"
