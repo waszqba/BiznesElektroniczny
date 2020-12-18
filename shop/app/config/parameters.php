@@ -1,7 +1,7 @@
 <?php return array (
   'parameters' =>
   array (
-    'database_host' => '46.101.111.73',
+    'database_host' => '10.114.0.4',
     'database_port' => '',
     'database_name' => 'prestashop',
     'database_user' => 'presta',
